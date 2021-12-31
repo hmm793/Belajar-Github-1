@@ -1,3 +1,5 @@
-Fitur yang harus di tambahkan menurut orang ke 2 adalah : 
-1. Website Sistem Informasi Akademik
-2. Website Lelang
+
+
+Saya Ingin membuat suatu hal dengan fitur sebagai berikut : 
+1. Website belanja online
+2. Wbsite landing page 
